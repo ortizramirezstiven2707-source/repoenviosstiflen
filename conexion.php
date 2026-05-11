@@ -1,6 +1,6 @@
 <?php
 
-$host = "ftp-stiven.alwaysdata.net";
+$host = "mysql-stiven.alwaysdata.net";
 $user = "stiven";
 $pass = "clase1234";
 $db   = "stiven_gestionusuarios";
